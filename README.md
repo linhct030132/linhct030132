@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @steve
+- 👀 I’m currently working at FPT Software
+- 🌱 I'm studying at VietNam Academy Cryptography Technologies
+- 📫 How to reach me: hoangflinhddo@gmail.c
